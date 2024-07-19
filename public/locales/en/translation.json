@@ -1,0 +1,65 @@
+{
+    "table": {
+        "number": "Number",
+        "created": "Created",
+        "state": "State",
+        "priority": "Priority",
+        "shortDescription": "Short description"
+    },
+    "taskForm": {
+        "description": "Description",
+        "startDate": "Start Date",
+        "estimation": "Estimation (days)",
+        "assignee": "Assignee",
+        "selectAssignee": "Select assignee",
+        "status": "Status",
+        "priority": "Priority"
+    },
+    "taskDetailsPage": {
+        "addNewTask": "Add New Task",
+        "taskDetails": "Task Details",
+        "addTask": "Add Task",
+        "saveChanges": "Save Changes"
+    },
+    "header": {
+        "dashboard": "Dashboard",
+        "timesheet": "Timesheet",
+        "addNewTask": "Add New Task",
+        "logout": "Logout",
+        "confirmLogout": "Are you sure you want to logout?",
+        "yes": "Yes",
+        "no": "No",
+        "searchTasks": "Search tasks by id..."
+    },
+    "statuses": {
+        "new": "New",
+        "workInProgress": "Work in Progress",
+        "readyForTesting": "Ready for Testing",
+        "done": "Done"
+    },
+    "priorities": {
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High"
+    },
+    "metrics": {
+        "newTasks": "New Tasks",
+        "tasksInProgress": "Tasks In Progress",
+        "readyForTesting": "Ready for Testing",
+        "completedTasks": "Completed Tasks"
+    },
+    "commentsSection": {
+        "comments": "Comments",
+        "addComment": "Add Comment",
+        "existingComments": "Existing Comments"
+    },
+    "attachmentsSection":{
+        "attachments":"Attachments",
+        "existingAttachments":"Existing Attachments",
+        "addFile":" Add File"
+    },
+    "promptEnterColumnName": "Enter column name:",
+    "promptRemoveColumn": "Are you sure you want to remove the column",
+    "buttonYes": "Yes",
+    "buttonNo": "No"
+}

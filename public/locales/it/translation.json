@@ -1,0 +1,65 @@
+{
+    "table": {
+        "number": "Numero",
+        "created": "Creato",
+        "state": "Stato",
+        "priority": "Priorità",
+        "shortDescription": "Breve descrizione"
+    },
+    "taskForm": {
+        "description": "Descrizione",
+        "startDate": "Data di inizio",
+        "estimation": "Stima (giorni)",
+        "assignee": "Assegnatario",
+        "selectAssignee": "Seleziona assegnatario",
+        "status": "Stato",
+        "priority": "Priorità"
+    },
+    "taskDetailsPage": {
+        "addNewTask": "Aggiungi Nuovo Compito",
+        "taskDetails": "Dettagli Compito",
+        "addTask": "Aggiungi Compito",
+        "saveChanges": "Salva Modifiche"
+    },
+    "header": {
+        "dashboard": "Pannello",
+        "timesheet": "Scheda attività",
+        "addNewTask": "Aggiungi nuovo compito",
+        "logout": "Disconnettersi",
+        "confirmLogout": "Sei sicuro di voler uscire?",
+        "yes": "Sì",
+        "no": "No",
+        "searchTasks": "Cerca attività per id..."
+    },
+    "statuses": {
+        "new": "Nuovo",
+        "workInProgress": "In Corso",
+        "readyForTesting": "Pronto per il Test",
+        "done": "Fatto"
+    },
+    "priorities": {
+        "low": "Bassa",
+        "medium": "Media",
+        "high": "Alta"
+    },
+    "metrics": {
+        "newTasks": "Nuove Attività",
+        "tasksInProgress": "Attività in Corso",
+        "readyForTesting": "Pronto per il Test",
+        "completedTasks": "Attività Completate"
+    },
+    "commentsSection": {
+        "comments": "Commenti",
+        "addComment": "Aggiungi Commento",
+        "existingComments": "Commenti Esistenti"
+    },
+    "attachmentsSection": {
+        "attachments": "Allegati",
+        "existingAttachments": "Allegati Esistenti",
+        "addFile": "Aggiungi File"
+    },
+    "promptEnterColumnName": "Inserisci il nome della colonna:",
+    "promptRemoveColumn": "Sei sicuro di voler rimuovere la colonna",
+    "buttonYes": "Sì",
+    "buttonNo": "No"
+}

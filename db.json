@@ -1,0 +1,93 @@
+{
+  "tasks": [
+    {
+      "description": "Develop Login Page",
+      "startDate": "2024-07-01",
+      "endDate": "2024-07-10",
+      "estimation": "9",
+      "status": "Work in Progress",
+      "assignee": "1",
+      "id": "task_001",
+      "attachments": [],
+      "priority": "High"
+    },
+    {
+      "id": "task_002",
+      "description": "API Integration for User Data",
+      "startDate": "2024-07-11",
+      "endDate": "2024-07-15",
+      "estimation": "5",
+      "status": "Done",
+      "assignee": "2",
+      "priority": "Medium",
+      "attachments": []
+    },
+    {
+      "id": "task_003",
+      "description": "Update User Profile Page",
+      "startDate": "2024-07-21",
+      "endDate": "2024-07-25",
+      "estimation": "5",
+      "status": "New",
+      "assignee": "",
+      "priority": "Low",
+      "attachments": [],
+      "comments": [
+        {
+          "author": "admin",
+          "text": "test",
+          "date": "2024-07-19T20:07:08.106Z"
+        }
+      ]
+    },
+    {
+      "id": "task_004",
+      "description": "Create User Settings Page",
+      "startDate": "2024-07-26",
+      "endDate": "2024-07-30",
+      "estimation": "5",
+      "status": "Ready for Testing",
+      "assignee": "1",
+      "priority": "Medium",
+      "attachments": [],
+      "comments": [
+        {
+          "author": "user",
+          "text": "this is a task created by admin",
+          "date": "2024-07-19T19:05:34.768Z"
+        }
+      ]
+    },
+    {
+      "id": "9pha8W9",
+      "description": "test",
+      "startDate": "2024-07-19",
+      "estimation": "3",
+      "status": "Ready for Testing",
+      "assignee": "2",
+      "priority": "Low",
+      "comments": [
+        {
+          "author": "user",
+          "text": "this is a comment from user",
+          "date": "2024-07-19T20:08:08.997Z"
+        }
+      ],
+      "attachments": []
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    }
+  ]
+}
